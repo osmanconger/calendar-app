@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.calendarapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.ViewMemoActivity"></activity>
+        <activity android:name=".activities.CreateMemoActivity" />
+        <activity android:name=".activities.ViewAlertsBetweenDatesActivity" />
+        <activity android:name=".activities.ViewAllAlertsActivity" />
+        <activity android:name=".activities.ViewAlertsActivity" />
+        <activity android:name=".activities.ViewEventsBetweenDatesActivity" />
+        <activity android:name=".activities.ViewAllEventActivity" />
+        <activity android:name=".activities.ViewEventActivity" />
+        <activity android:name=".activities.LogInPage" />
+        <activity android:name=".activities.SignUpPage" />
+        <activity android:name=".activities.CreateEventActivity" />
+        <activity android:name=".activities.CreateAlertActivity" />
+        <activity android:name=".activities.CreateSingleEventActivity" />
+        <activity android:name=".activities.CreateFreqEvent" />
+        <activity android:name=".activities.CreateRecurringEvent" />
+        <activity android:name=".activities.Menu" />
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
