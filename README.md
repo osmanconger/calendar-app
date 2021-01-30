@@ -2,20 +2,13 @@ An android calendar app that allows users to log in and store events, alerts, me
 
 &nbsp; &nbsp; &nbsp; ![](images/1.png)  &nbsp; &nbsp; &nbsp; ![](images/2.png)
 
-![](images/3.png)
+&nbsp; &nbsp; &nbsp; ![](images/3.png)  &nbsp; &nbsp; &nbsp; ![](images/4.png)
 
-![](images/4.png)
+&nbsp; &nbsp; &nbsp; ![](images/5.png)  &nbsp; &nbsp; &nbsp; ![](images/6.png)
 
-![](images/5.png)
+&nbsp; &nbsp; &nbsp; ![](images/7.png)  &nbsp; &nbsp; &nbsp; ![](images/8.png)
 
-![](images/6.png)
+&nbsp; &nbsp; &nbsp; ![](images/9.png)  &nbsp; &nbsp; &nbsp; ![](images/10.png)
 
-![](images/7.png)
+&nbsp; &nbsp; &nbsp; ![](images/11.png)  
 
-![](images/8.png)
-
-![](images/9.png)
-
-![](images/10.png)
-
-![](images/11.png)
